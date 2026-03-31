@@ -11,3 +11,7 @@ scikit-learn
 
 # Utilities
 gunicorn
+
+# HTTP dependencies (stable versions for compatibility)
+httpx==0.27.0
+httpcore==1.0.5
