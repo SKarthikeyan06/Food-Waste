@@ -1,0 +1,521 @@
+day_type,weather,item_name,food_type,Footfall,Popularity,prepared_qty_kg,sold_qty_kg,waste_qty_kg
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
+Regular,Sunny,Coffee,Beverage,393,8,29.82,28.09,1.73
+Weekend,Hot,Tea,Beverage,303,9,29.06,26.74,2.32
+Regular,Rainy,Puffs,Snack,457,6,32.66,29.47,3.2
+Regular,Rainy,Tea,Beverage,447,7,50.78,47.93,2.84
+Exam,Sunny,Chicken Biryani,Meal,281,4,49.13,44.23,4.91
+Regular,Hot,Samosa,Snack,481,9,60.49,50.37,10.13
+Regular,Rainy,Veg Meals,Meal,491,5,106.42,86.59,19.83
+Regular,Hot,Noodles,Snack,477,9,64.57,58.47,6.1
+Exam,Rainy,Chicken Biryani,Meal,397,8,80.92,75.99,4.93
+Weekend,Sunny,Samosa,Snack,174,6,19.84,16.43,3.42
+Exam,Rainy,Coffee,Beverage,266,4,15.22,14.32,0.9
+Regular,Sunny,Sambar Rice,Meal,445,6,80.45,64.66,15.8
+Exam,Sunny,Veg Meals,Meal,361,6,56.74,53.78,2.96
+Regular,Hot,Noodles,Snack,488,8,102.15,92.87,9.27
+Regular,Hot,Puffs,Snack,332,6,62.8,53.45,9.35
+Regular,Sunny,Tea,Beverage,566,7,95.81,85.94,9.87
+Regular,Sunny,Coffee,Beverage,424,4,21.25,18.97,2.29
+Regular,Rainy,Noodles,Snack,402,4,14.89,12.02,2.87
+Regular,Sunny,Samosa,Snack,354,5,38.42,33.43,5.0
+Regular,Sunny,Noodles,Snack,338,5,20.19,18.26,1.93
+Weekend,Hot,Tea,Beverage,217,5,24.34,20.55,3.79
+Exam,Hot,Chicken Biryani,Meal,421,8,120.16,103.84,16.32
+Regular,Sunny,Chicken Biryani,Meal,392,8,87.56,80.04,7.53
+Exam,Hot,Sambar Rice,Meal,326,7,74.11,64.25,9.87
+Regular,Sunny,Samosa,Snack,319,5,31.03,25.57,5.46
+Regular,Sunny,Veg Meals,Meal,544,8,106.89,96.66,10.22
